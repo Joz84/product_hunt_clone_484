@@ -7,3 +7,4 @@ puts 'Creating 5 products...'
   puts "#{i + 1}. #{product.name}"
 end
 puts 'Finished!'
+
